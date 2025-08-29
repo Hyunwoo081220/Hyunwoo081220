@@ -1,5 +1,5 @@
 <!-- 프로필 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=안녕하세요!%20I'm%20정현우입니다%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=반갑습니다.%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ## 👨‍💻 About Me
 안녕하세요!  
