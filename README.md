@@ -1,7 +1,7 @@
 <!-- 프로필 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=반갑습니다.%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 안녕하세요!  
 저는 **프로그래밍을 배우며 개발자의 꿈을 키워가고 있는 정현우**입니다.  
 게임 개발, 웹 개발, AI, 보안 등 다양한 분야를 학습하며 꾸준히 성장하고 있습니다.  
