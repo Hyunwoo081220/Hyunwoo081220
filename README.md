@@ -1,5 +1,5 @@
 <!-- 프로필 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=Hi!%20I'm%20Hyunwoo%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=안녕하세요!%20I'm%20정현우입니다%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ## 👨‍💻 About Me
 안녕하세요!  
@@ -57,27 +57,16 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌱 Learning & Goals
-- AI와 보안을 접목한 개발 분야에 도전하고 싶습니다.  
+- AI와 보안, 서버, 프론트 엔드에 관심이 있습니다.
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
 
 ---
 
 ## 📫 Contact
-📧 Email: your_email@example.com  
-🌐 GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)  
-
----
+📧 Email: jhe081220@gmail.com
+📧 another email : hyeonu081220@naver.com
+instagram : j.wl2o
 
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
