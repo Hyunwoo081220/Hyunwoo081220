@@ -1,34 +1,69 @@
-# 👋 안녕하세요, 정현우입니다!
+<!-- 프로필 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=Hi!%20I'm%20Hyunwoo%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-프로그래밍을 배우며 개발자의 꿈을 키워가고 있는 학생 개발자입니다.  
+## 👨‍💻 About Me
+안녕하세요!  
+저는 **프로그래밍을 배우며 개발자의 꿈을 키워가고 있는 정현우**입니다.  
 게임 개발, 웹 개발, AI, 보안 등 다양한 분야를 학습하며 꾸준히 성장하고 있습니다.  
-새로운 기술을 배우고 직접 프로젝트에 적용하는 과정을 즐깁니다. 🚀
+새로운 기술을 배우고 직접 프로젝트에 적용하는 과정을 즐깁니다 🚀  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: C#, Python, Java, JavaScript
-- **Web**: HTML, CSS, JSP, React
-- **AI & Data**: Python (ML, AI 수업 경험)
-- **Security**: Cyber Guardians 과정 (보안 기초 & CTF 참가)
-- **Hardware**: Arduino (스마트팜, 로봇 제작 경험)
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Others
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=probot&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
 
 ---
 
 ## 📂 Projects
-- 🎮 **Python Game**: 기획 → 구현 → 디버깅까지 직접 제작한 간단한 게임  
-- 🌐 **Web Site**: HTML & CSS를 활용한 웹사이트 제작  
-- 🤖 **Smart Farm & Robot**: Arduino를 활용한 하드웨어-소프트웨어 통합 프로젝트  
-- 📝 **Notion Dev Notes**: 학습 과정과 프로젝트를 체계적으로 기록 & 관리  
+- 🎮 **Python Game Project**  
+  → 기획부터 구현, 디버깅까지 직접 경험한 게임 제작 프로젝트  
+
+- 🌐 **Web Development**  
+  → HTML & CSS를 활용한 간단한 웹사이트 제작  
+
+- 🤖 **Smart Farm & Robot (Arduino)**  
+  → 하드웨어와 소프트웨어를 통합한 IoT 프로젝트  
+
+- 📝 **Dev Notes with Notion**  
+  → 학습 및 프로젝트 기록을 체계적으로 정리  
 
 ---
 
 ## 🏆 Experiences & Activities
-- **Cyber Guardians** (보안 교육 & 팀 기반 CTF 참가)  
+- **Cyber Guardians** (보안 교육 & CTF 참가)  
 - **성남시 청소년 게임 개발 대회** (팀장)  
 - **JA Company 2025 대회** (팀장)  
-- **Supercomputing Youth Camp 2025** 참가  
+- **Supercomputing Youth Camp 2025**  
 - **삼양 / HP 견학**  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
+
+</div>
 
 ---
 
@@ -39,5 +74,10 @@
 ---
 
 ## 📫 Contact
-- Email: your_email@example.com  
-- GitHub: [github.com/your-id](https://github.com/your-id)  
+📧 Email: your_email@example.com  
+🌐 GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)  
+
+---
+
+<!-- 푸터 배너 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
