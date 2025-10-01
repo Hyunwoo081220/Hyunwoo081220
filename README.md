@@ -44,9 +44,11 @@
 - 📝 **Dev Notes with Notion**  
   → 학습 및 프로젝트 기록을 체계적으로 정리
 
-- **Weather Check Project**
-  -> React, API를 이용한 실시간 날씨 확인 애플리케이션 제작
-
+- ✅ **Weather Check Project**
+  → React, API를 이용한 실시간 날씨 확인 애플리케이션 제작
+  
+- 📝 **community page**  
+  → community main page 제작, css 담당
 ---
 
 ## 🏆 Experiences & Activities
