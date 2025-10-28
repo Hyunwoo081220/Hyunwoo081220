@@ -49,7 +49,7 @@
   → 기획부터 구현, 디버깅까지 직접 경험한 게임 제작 프로젝트  
 
 - 🌐 **Web Development**  
-  → HTML & CSS를 활용한 간단한 웹사이트 제작  
+  → HTML & CSS, React, js, jsp와 같은 다양한 언어를 활용하여 웹사이트 제작
 
 - 🤖 **Smart Farm & Robot (Arduino)**  
   → 하드웨어와 소프트웨어를 통합한 IoT 프로젝트  
@@ -61,7 +61,7 @@
   → React, API를 이용한 실시간 날씨 확인 애플리케이션 제작
   
 - 📝 **community page**  
-  → community main page 제작, css 담당
+  → community main page 제작, css 담당, 기획
 ---
 
 ## 🏆 Experiences & Activities
@@ -73,15 +73,10 @@
 ---
 
 ## 🌱 Learning & Goals
-- 백엔드, 프론트 엔드에 관심이 있습니다.
+- 풀스택 개발자에 관심이 있습니다.
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
-
+- 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
-
-## 📫 Contact
-📧 Email: jhe081220@gmail.com
-📧 another email : hyeonu081220@naver.com
-instagram : j.wl2o
 
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
