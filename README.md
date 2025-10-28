@@ -31,13 +31,16 @@
 
 ---
 
-![Java](https://img.shields.io/badge/Java-85%25-blue)
-![Python](https://img.shields.io/badge/Python-88%25-yellow)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-84%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-red)
-![React](https://img.shields.io/badge/React-62%25-green)
-![Arduino](https://img.shields.io/badge/Arduino-76%25-lightgrey)
+## 프로그래밍 능력
 
+| 기술       | 점수 | 배지                                                      |
+|:----------:|:----:|:---------------------------------------------------------:|
+| Java       | 85   | ![Java](https://img.shields.io/badge/Java-85%25-blue)          |
+| Python     | 88   | ![Python](https://img.shields.io/badge/Python-88%25-yellow)    |
+| HTML/CSS   | 84   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-84%25-orange)  |
+| JavaScript | 70   | ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-red)   |
+| React      | 62   | ![React](https://img.shields.io/badge/React-62%25-green)         |
+| Arduino    | 76   | ![Arduino](https://img.shields.io/badge/Arduino-76%25-lightgrey)  |
 
 ---
 
