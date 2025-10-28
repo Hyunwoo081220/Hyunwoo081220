@@ -39,8 +39,7 @@
 | Python     | ![Python](https://img.shields.io/badge/Python-88점-blue)    |
 | HTML/CSS   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-93점-green)  |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-67점-orange)   |
-| React      | ![React](https://img.shields.io/badge/React-62점-red)         |
-| Arduino    | ![Arduino](https://img.shields.io/badge/Arduino-60점-red)  |
+| React      | ![React](https://img.shields.io/badge/React-62점-red)           |
 
 ---
 
