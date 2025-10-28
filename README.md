@@ -31,6 +31,19 @@
 
 ---
 
+## 프로그래밍 능력
+
+| 기술       | 점수| 능력치 그래프                                        |
+|------------|:---:|:------------------------------------------------------|
+| Java       |  8  | ![bar](https://progress-bar.dev/85/?title=Java)       |
+| Python     |  8  | ![bar](https://progress-bar.dev/80/?title=Python)     |
+| HTML/CSS   |  9  | ![bar](https://progress-bar.dev/90/?title=HTML%2FCSS) |
+| JavaScript |  6  | ![bar](https://progress-bar.dev/70/?title=JavaScript) |
+| React      |  7  | ![bar](https://progress-bar.dev/70/?title=React)      |
+| Arduino    |  6  | ![bar](https://progress-bar.dev/60/?title=Arduino)    |
+
+---
+
 ## 📂 Projects
 - 🎮 **Python Game Project**  
   → 기획부터 구현, 디버깅까지 직접 경험한 게임 제작 프로젝트  
