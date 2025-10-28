@@ -35,12 +35,12 @@
 
 | 기술       | 배지                                                      |
 |:----------:|:---------------------------------------------------------:|
-| Java       | ![Java](https://img.shields.io/badge/Java-85점25-blue)          |
-| Python     | ![Python](https://img.shields.io/badge/Python-88점25-yellow)    |
-| HTML/CSS   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-93점25-orange)  |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-67점25-red)   |
-| React      | ![React](https://img.shields.io/badge/React-62점25-green)         |
-| Arduino    | ![Arduino](https://img.shields.io/badge/Arduino-60점25-lightgrey)  |
+| Java       | ![Java](https://img.shields.io/badge/Java-85점-blue)          |
+| Python     | ![Python](https://img.shields.io/badge/Python-88점-yellow)    |
+| HTML/CSS   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-93점-orange)  |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-67점-red)   |
+| React      | ![React](https://img.shields.io/badge/React-62점-green)         |
+| Arduino    | ![Arduino](https://img.shields.io/badge/Arduino-60점-lightgrey)  |
 
 ---
 
