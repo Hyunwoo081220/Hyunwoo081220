@@ -77,6 +77,4 @@
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
-
-![Footer](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
+![Footer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Goodbye!)
