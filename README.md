@@ -1,12 +1,6 @@
 <!-- 프로필 배너 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
 
-![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Typing](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-![Rocket](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-![Loading](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-![Waving](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
 
 ## 👨💻 About Me
 안녕하세요!  
@@ -84,4 +78,3 @@
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
-![footer](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
