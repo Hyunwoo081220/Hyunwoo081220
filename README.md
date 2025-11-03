@@ -32,7 +32,7 @@
 
 ## 프로그래밍 능력
 
-| 기술       | 배지                                                      |
+| 언어       | 점수수                                                      |
 |:----------:|:---------------------------------------------------------:|
 | HTML/CSS   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-93점-green)  |
 | Python     | ![Python](https://img.shields.io/badge/Python-88점-blue)    |
