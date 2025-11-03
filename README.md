@@ -77,7 +77,4 @@
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
-- 11/03 부터 카운트
-![Visitor Count](https://komarev.com/ghpvc/?username=Hyunwoo081220&color=blue)
-<!-- 푸터 배너 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer&animation=twinkle)
