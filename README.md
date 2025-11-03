@@ -78,8 +78,8 @@
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-🔗 GitHub 트래픽 확인: [Insights → Traffic](https://github.com/yourusername?tab=insights&traffic)
+![Visitor Count](https://komarev.com/ghpvc/?username=Hyunwoo081220&color=blue)
+🔗 GitHub 트래픽 확인: [Insights → Traffic](https://github.com/Hyunwoo081220?tab=insights&traffic)
 
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
