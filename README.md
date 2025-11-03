@@ -79,5 +79,7 @@
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+🔗 GitHub 트래픽 확인: [Insights → Traffic](https://github.com/yourusername?tab=insights&traffic)
+
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
