@@ -23,7 +23,6 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Others
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=probot&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -35,11 +34,12 @@
 
 | 기술       | 배지                                                      |
 |:----------:|:---------------------------------------------------------:|
-| Java       | ![Java](https://img.shields.io/badge/Java-85점-blue)      |
-| Python     | ![Python](https://img.shields.io/badge/Python-88점-blue)    |
 | HTML/CSS   | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-93점-green)  |
+| Python     | ![Python](https://img.shields.io/badge/Python-88점-blue)    |
+| Java       | ![Java](https://img.shields.io/badge/Java-85점-blue)      |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-67점-orange)   |
 | React      | ![React](https://img.shields.io/badge/React-62점-red)           |
+| Spring      | ![React](https://img.shields.io/badge/React-55점-red)           |
 
 ---
 
