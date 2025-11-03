@@ -77,4 +77,4 @@
 - 협업과 실무 경험을 통해 빠르게 배우고 성장하는 개발자가 되고자 합니다.  
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer&animation=twinkle)
+![footer](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
