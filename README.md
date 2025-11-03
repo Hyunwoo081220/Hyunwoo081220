@@ -1,13 +1,18 @@
 <!-- 프로필 배너 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
 
+![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Typing](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Rocket](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Loading](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Waving](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+
+
 ## 👨💻 About Me
 안녕하세요!  
 저는 **프로그래밍을 배우며 개발자의 꿈을 키워가고 있는 정현우**입니다.  
 게임 개발, 웹 개발, AI, 보안 등 다양한 분야를 학습하며 꾸준히 성장하고 있습니다.  
 새로운 기술을 배우고 직접 프로젝트에 적용하는 과정을 즐깁니다 🚀  
-![animated banner](https://example.com/your-animated.gif)
-
 
 ---
 
