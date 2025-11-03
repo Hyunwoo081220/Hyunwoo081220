@@ -78,5 +78,8 @@
 - 팀과 협업하며 좋은 결과물을 만드는 것을 좋아합니다.
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
+
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=120&section=footer)
