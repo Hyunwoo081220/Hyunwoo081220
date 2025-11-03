@@ -1,5 +1,6 @@
 <!-- 프로필 배너 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
+
 ![Programming](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 ![Laptop Coding](https://media.giphy.com/media/3o7TKM3xG2M8c2Dp1O/giphy.gif)
 ![Coffee Coding](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
@@ -8,6 +9,7 @@
 ![Typing Fast](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 ![Cute Programmer](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 ![Waving Hand](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+
 
 
 ## 👨💻 About Me
